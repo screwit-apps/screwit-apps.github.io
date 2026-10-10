@@ -2,11 +2,11 @@
   "version": 1,
   "apps": [
     {
-      "packageName": "com.screwitapps.sudoku",
-      "campaignSlug": "sudoku",
-      "name": "Sudoku",
-      "iconUrl": "https://play-lh.googleusercontent.com/ap2CMItEzQybhG-AN3HRRfCobs3iSil55srkeYNb5qtYqDHs9RhmaM7GzL09gtWHu5OHc3JMrWY_jQewnRQtNA=w240-h480-rw",
-      "subtitle": "Classic 9×9 offline puzzle"
+      "packageName": "com.screwitapps.anotadordomino",
+      "campaignSlug": "domino",
+      "name": "Domino",
+      "iconUrl": "https://play-lh.googleusercontent.com/7tzf0CWsPH3lSNH4h5caCCIdwLNTO05oQbUMBkKXFBVey-FagPl8OTbQEfAE-FggSiDE1NpKjuyTiy-0QYtOUA=w240-h480-rw",
+      "subtitle": "Domino scorekeeper for the table"
     },
     {
       "packageName": "com.screwitapps.anotadordebazas",
@@ -16,25 +16,18 @@
       "subtitle": "Bid and trick scorekeeper"
     },
     {
+      "packageName": "com.screwitapps.sudoku",
+      "campaignSlug": "sudoku",
+      "name": "Sudoku",
+      "iconUrl": "https://play-lh.googleusercontent.com/ap2CMItEzQybhG-AN3HRRfCobs3iSil55srkeYNb5qtYqDHs9RhmaM7GzL09gtWHu5OHc3JMrWY_jQewnRQtNA=w240-h480-rw",
+      "subtitle": "Classic 9×9 offline puzzle"
+    },
+    {
       "packageName": "com.screwitapps.anotadorcanasta",
       "campaignSlug": "canasta",
       "name": "Canasta",
       "iconUrl": "https://play-lh.googleusercontent.com/COne36IAMfcpb58tsqGEe5ZRCPhYlpGtUPh7DPGQpKPNqUx_CGPZFedUhVND4f8PkXqBk7tPTmET4B5vHCNVKA=w240-h480-rw",
       "subtitle": "Canasta scorekeeper"
-    },
-    {
-      "packageName": "com.screwitapps.anotadormus",
-      "campaignSlug": "mus",
-      "name": "Mus",
-      "iconUrl": "https://play-lh.googleusercontent.com/o_NYB_sm7vd7pVws4IJW8ZThGpAzXPJn0pJkhT7CUvJIPA5lzh8ikc8ssT7RyHTd86RhcmdOsq343B_wSyarbMs=w240-h480-rw",
-      "subtitle": "Stones and cows scorekeeper"
-    },
-    {
-      "packageName": "com.screwitapps.anotadordomino",
-      "campaignSlug": "domino",
-      "name": "Domino",
-      "iconUrl": "https://play-lh.googleusercontent.com/COne36IAMfcpb58tsqGEe5ZRCPhYlpGtUPh7DPGQpKPNqUx_CGPZFedUhVND4f8PkXqBk7tPTmET4B5vHCNVKA=w240-h480-rw",
-      "subtitle": "Domino scorekeeper for the table"
     }
   ]
 }
