@@ -28,6 +28,13 @@
       "name": "Canasta",
       "iconUrl": "https://play-lh.googleusercontent.com/COne36IAMfcpb58tsqGEe5ZRCPhYlpGtUPh7DPGQpKPNqUx_CGPZFedUhVND4f8PkXqBk7tPTmET4B5vHCNVKA=w240-h480-rw",
       "subtitle": "Canasta scorekeeper"
+    },
+    {
+      "packageName": "com.screwitapps.anotadorburraco",
+      "campaignSlug": "burraco",
+      "name": "Burraco",
+      "iconUrl": "https://play-lh.googleusercontent.com/AQ9PUjPrtaR9Wj1TsiKVhMTVCjP5Ga-3rrd5XHpCkkdRSM_hgHyh3yfjcZraCWI3DjRa4dXZhbbRRvfvOWZU=w240-h480-rw",
+      "subtitle": "Italian and Brazilian card Burraco scorekeeper"
     }
   ]
 }
