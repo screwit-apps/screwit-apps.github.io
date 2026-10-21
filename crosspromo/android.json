@@ -9,6 +9,13 @@
       "subtitle": "Card Burraco scorekeeper—not tile Burako or online play"
     },
     {
+      "packageName": "com.screwitapps.anotadorburako",
+      "campaignSlug": "burako",
+      "name": "Burako Tiles",
+      "iconUrl": "https://play-lh.googleusercontent.com/Oo-0S-SvB3lq39LHk4CDswddFEXiqwIRkpSy5KUxrCOovclpl_HtnR1Gjq-o0_nW8ocuDtO41EPhoXRJBTsfWw=w240-h480-rw",
+      "subtitle": "Tile Burako scorekeeper—not card Burraco or online play"
+    },
+    {
       "packageName": "com.screwitapps.anotadordomino",
       "campaignSlug": "domino",
       "name": "Domino",
