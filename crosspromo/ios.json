@@ -28,6 +28,20 @@
       "name": "Mus",
       "subtitle": "Stones and cows scorekeeper",
       "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/d9/28/dad9285b-cae2-286e-ead3-bfcf9539c858/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+    },
+    {
+      "appStoreId": "6824856196",
+      "campaignSlug": "burako",
+      "name": "Burako Tile Scorekeeper",
+      "subtitle": "Tile Burako scorekeeper—not card Burraco or online play",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/71/4b/50714baa-6f1d-c72b-6735-280c784e03ee/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+    },
+    {
+      "appStoreId": "6821681665",
+      "campaignSlug": "burraco",
+      "name": "Burraco Card Scorekeeper",
+      "subtitle": "Card Burraco scorekeeper—not tile Burako or online play",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/04/67/5d0467cd-4fa6-3f79-c2bc-8bdc9fd890d8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
     }
   ]
 }
