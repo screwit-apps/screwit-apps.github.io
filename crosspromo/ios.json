@@ -2,46 +2,46 @@
   "version": 1,
   "apps": [
     {
-      "appStoreId": "6807477667",
-      "campaignSlug": "sudoku",
-      "name": "Sudoku",
-      "subtitle": "Classic 9×9 offline puzzle",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/b8/bb/2cb8bb18-4caf-fe04-3b28-aa0a6e255270/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
-    },
-    {
-      "appStoreId": "6789110613",
-      "campaignSlug": "bazas",
-      "name": "Oh Hell",
-      "subtitle": "Bid and trick scorekeeper",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/d1/02/19d102a1-8ffb-6e5e-e498-cd48e75c8aca/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
-    },
-    {
-      "appStoreId": "6782016917",
-      "campaignSlug": "canasta",
-      "name": "Canasta",
-      "subtitle": "Canasta scorekeeper",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/93/8a/7d938a3a-0495-beb8-547f-5e65287721a5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
-    },
-    {
-      "appStoreId": "6792007881",
-      "campaignSlug": "mus",
-      "name": "Mus",
-      "subtitle": "Stones and cows scorekeeper",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/d9/28/dad9285b-cae2-286e-ead3-bfcf9539c858/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+      "appStoreId": "6820981832",
+      "campaignSlug": "domino",
+      "name": "Domino",
+      "subtitle": "Domino scorekeeper for the table",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/ba/78/ffba78fc-994d-a58f-e78e-31e958b50597/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg"
     },
     {
       "appStoreId": "6824856196",
       "campaignSlug": "burako",
-      "name": "Burako Tile Scorekeeper",
+      "name": "Burako Tiles",
       "subtitle": "Tile Burako scorekeeper—not card Burraco or online play",
       "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/71/4b/50714baa-6f1d-c72b-6735-280c784e03ee/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
     },
     {
       "appStoreId": "6821681665",
       "campaignSlug": "burraco",
-      "name": "Burraco Card Scorekeeper",
+      "name": "Burraco de cartas",
       "subtitle": "Card Burraco scorekeeper—not tile Burako or online play",
       "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/04/67/5d0467cd-4fa6-3f79-c2bc-8bdc9fd890d8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+    },
+    {
+      "appStoreId": "6807477667",
+      "campaignSlug": "sudoku",
+      "name": "Sudoku",
+      "subtitle": "Classic 9×9 offline puzzle",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/93/53/3393536c-7117-8b35-676f-85ec28381c81/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+    },
+    {
+      "appStoreId": "6789110613",
+      "campaignSlug": "bazas",
+      "name": "Oh Hell",
+      "subtitle": "Bid and trick scorekeeper",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/d5/bb/fad5bb9c-a77c-5033-1571-2c218e78c565/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+    },
+    {
+      "appStoreId": "6782016917",
+      "campaignSlug": "canasta",
+      "name": "Canasta",
+      "subtitle": "Canasta scorekeeper",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/5b/7f/785b7f37-a602-6a2c-659c-ef260bc8f1d3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
     }
   ]
 }
