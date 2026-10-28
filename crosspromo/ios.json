@@ -42,6 +42,13 @@
       "name": "Canasta",
       "subtitle": "Canasta scorekeeper",
       "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/5b/7f/785b7f37-a602-6a2c-659c-ef260bc8f1d3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+    },
+    {
+      "appStoreId": "6823155464",
+      "campaignSlug": "7-wonders",
+      "name": "7 Wonders",
+      "subtitle": "7 Wonders score companion",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/4b/3a/8a4b3af3-8ba6-a9b0-2244-e4743f6ad978/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
     }
   ]
 }
