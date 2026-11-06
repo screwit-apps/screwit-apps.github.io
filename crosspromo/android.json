@@ -2,6 +2,13 @@
   "version": 1,
   "apps": [
     {
+      "packageName": "com.screwitapps.anotadordarts",
+      "campaignSlug": "darts",
+      "name": "Darts",
+      "iconUrl": "https://play-lh.googleusercontent.com/RGwOUZ6X_53a0U7QVMi6EXI9TxB2ubQylOXb13Jv-JUWsYK0QrPmlMc8BI6l5IVqtZXhwCsos9GJdqBlimZqmQ=w240-h480-rw",
+      "subtitle": "501 & Cricket scorekeeper"
+    },
+    {
       "packageName": "com.screwitapps.anotadordomino",
       "campaignSlug": "domino",
       "name": "Domino",
