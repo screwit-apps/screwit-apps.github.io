@@ -2,6 +2,13 @@
   "version": 1,
   "apps": [
     {
+      "appStoreId": "6831084525",
+      "campaignSlug": "darts",
+      "name": "Darts",
+      "subtitle": "501 & Cricket scorekeeper",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/cc/21/ddcc219e-97f5-89c1-741d-860c087ccf1d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+    },
+    {
       "appStoreId": "6820981832",
       "campaignSlug": "domino",
       "name": "Domino",
