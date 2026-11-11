@@ -2,6 +2,13 @@
   "version": 1,
   "apps": [
     {
+      "packageName": "com.screwitapps.anotadorcornhole",
+      "campaignSlug": "cornhole",
+      "name": "Cornhole Scorekeeper",
+      "iconUrl": "https://play-lh.googleusercontent.com/KHXjNdangssoNdDi9Tr19JeK_D4L8xwXNQs4ZoXABrL2NE--9dRR8XTp5iGUDBgeT7NzP-VnmRVhQNNdQdh0Wg=w240-h480-rw",
+      "subtitle": "Score every frame at the boards"
+    },
+    {
       "packageName": "com.screwitapps.anotadordarts",
       "campaignSlug": "darts",
       "name": "Darts",
